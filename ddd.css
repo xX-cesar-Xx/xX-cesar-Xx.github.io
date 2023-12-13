@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.contenerdor{
+    margin: 0%;
+    width: 1200px;
+    height: 1500px;
+    background: url("degradado_Mesa de trabajo 1.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.encabesado{
+    width: auto;
+    height: auto;
+    
+}
+.encabesado div{
+    position: static;
+}
+.menu div{
+    height: 400px;
+    width: 200px;
+    list-style: none;
+    text-align: center;
+}
+.menu div ul{
+    list-style: none;
+}
+.menu div ul li a {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fbfafa; /* Cambia esto al color que prefieras */
+}
+
+.gene{
+    width: 1000px;
+    height: 620px;
+    float: right;
+    
+    margin-top: -400px;
+    
+}
+.ventas{
+    width: 800px;
+    height: auto;
+    
+    margin-top: -0px;
+    float: right;
+}
+.info{
+    width: 390px;
+    height: auto;
+    margin-top: -0px;
+    float: left;
+}
+.info p{
+    color: #fcfcfc;
+    font-family: 'Times New Roman', Times, serif;
+}
+.info a{
+    color: #fcfcfc;
+    font-family: 'Times New Roman', Times, serif;
+}
+.oferta{
+    width: 400px;
+    height: auto;
+    margin-top: -0px;
+    float: left;
+}
+.oferta video{
+    width: 400px;
+    height: 300px;
+    
+}
+.oferta h1{
+    text-align: center;
+}
